@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+rdkit-pypi
+scikit-learn
+xgboost
+tqdm
+torch
+torchvision
+torchaudio
+torch_geometric==2.3.1
